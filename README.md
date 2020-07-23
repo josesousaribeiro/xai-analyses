@@ -6,7 +6,7 @@ The research group responsible for this study is composed of:
 - José Ribeiro - Lattes: http://lattes.cnpq.br/9089758055399890
 - Raissa Lorena - Lattes: http://lattes.cnpq.br/3736591495331995
 - Lucas Ferraro - Lattes: http://lattes.cnpq.br/9591352011725008
-- Ronnie Alvez (Orientador) - Lates: http://lattes.cnpq.br/9014616733186520
+- Ronnie Alves (Orientador) - Lates: http://lattes.cnpq.br/9014616733186520
 
 Research Description
 
