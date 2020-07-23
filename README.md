@@ -1,4 +1,4 @@
-# xai-analyses
+# Xai-Analyses
 
 This repository has research analysis data for Explainable Artificial Intelligence - XAI.
 
