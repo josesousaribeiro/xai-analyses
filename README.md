@@ -17,7 +17,8 @@ In all, twenty computational models were generated, and the results prove the ex
 Full article publication link: < - >
 
 Repository:
-In this repository you can download all the datasets needed to perform the analysis available on the notebook links below:
+
+In this repository you can download all the datasets needed to perform the analysis available on the notebook (Google Colab) links below:
 
 Notebook of dataset_31:
 
