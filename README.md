@@ -4,8 +4,8 @@ This repository has research analysis data for Explainable Artificial Intelligen
 
 The research group responsible for this study is composed of:
 - José Ribeiro - site: https://sites.google.com/view/jose-sousa-ribeiro
-- Raissa Lorena - site: https://sites.google.com/site/silvarailors  
-- Lucas Ferraro - site: http://lattes.cnpq.br/9591352011725008
+- Raissa Silva - site: https://sites.google.com/site/silvarailors  
+- Lucas Cardoso - site: http://lattes.cnpq.br/9591352011725008
 - Ronnie Alves (Orientador) - site: https://sites.google.com/site/alvesrco/
 
 Research Description
